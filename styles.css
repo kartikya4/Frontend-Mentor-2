@@ -1,0 +1,225 @@
+body{
+    margin:0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    letter-spacing:1px;
+    color:hsl(243, 87%, 12%);
+}
+
+.top-container{
+    padding:50px;
+}
+
+.logo{
+    width: 130px;
+    height: 40px;
+    float: left;
+}
+.nav{
+    padding: 20px;
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    color:#004755;
+}
+
+.middle-container-one{
+    padding: 50px;
+}
+
+.illustrator-one{
+    float: right;
+    height: 420px;
+    width: 50%;
+    margin-left: 100px;
+}
+
+.intro{
+    float:left;
+    width:40%;  
+    padding-top : 100px;
+    box-sizing: border-box;
+}
+
+.the-big-curve{
+    width:100%;
+    margin:0 auto 0 auto;
+}
+
+.btn{
+    background-color: hsl(224, 93%, 58%);
+    padding: 8px 50px 8px 50px;
+    border-radius: 4px;
+    color:white;
+    margin-left: 20px;
+    height:25px;
+}
+
+.btn:hover{
+    background-color: #004755;
+}
+
+.text-box{
+    height: 30px;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.middle-container-two{
+    margin-top:0;
+    padding:50px;
+    background-color: hsl(240, 75%, 98%);
+}
+
+.illustrator-two{
+    float: right;
+    height:420px;
+    width:50%;   
+    margin-left:100px;
+}
+
+.founder-and-ceo{
+    margin-top:100px;
+    padding:20px;
+    width:280px;
+    height:160px;
+    font-size:13px;
+    box-shadow: 0px 0px 40px 1px hsl(0, 0%, 75%);
+}
+
+.avatar{
+    width:40px;
+    height:40px;
+    border-radius:100%;
+    float:left;
+    margin-right:10px;
+}
+
+.bottom-container-one{
+    background-color: hsl(238, 22%, 44%);
+    padding:80px 50px 100px 50px;
+    color:#ffffff;
+}
+
+.exception{
+    color:white;
+}
+
+.support{
+    float:left;
+    width:35%;
+    margin:auto 300px auto auto;
+}
+
+.email-bar{
+    height:25px;
+    width:40%;
+    margin-top:27px;
+}
+
+.btn-two{
+    background-color: hsl(224, 93%, 58%);
+    padding: 8px 50px 8px 50px;
+    border-radius: 4px;
+    color:white;
+    margin-left: 20px;
+    height:25px;
+    position:relative;
+    right:20px;
+}
+
+.btn-two:hover{
+    background-color: #004755;
+}
+
+.bottom-container-two{
+    padding:50px;
+    background-color: hsl(243, 87%, 12%);
+    color:white;
+    height:200px;
+}
+
+.logo-two{
+    width: 130px;
+    height: 40px;
+    margin-bottom:20px;
+}
+
+.contact{
+    margin-right:20px;
+}
+
+.contact-info{
+    line-height: 2;
+    float:left;
+    width:20%;
+    margin-right:200px;
+}
+
+.links{
+    line-height:2;
+    position:relative;
+    float:left;
+    width:20%;
+    margin-top: 70px;
+}
+
+.link{
+    color:white;
+}
+
+.links-two{
+    line-height:2;
+    float:left;
+    width:20%;
+    margin-top:70px;
+}
+
+.social{
+    margin-top:90px;
+}
+
+.developer-info{
+    float:left;
+    width:100%;
+    margin:auto;
+}
+
+.social-img{
+    border-radius:100%;
+    width:40px;
+    height:40px;   
+}
+
+a:hover{
+    color: lightblue;
+}
+
+.see-how{
+    color:hsl(170, 45%, 43%);
+    text-decoration:underline;
+}
+
+.see-how-img{
+    margin-left: 3px;
+    position:relative;
+    top:3px;
+}
+
+.developer-info{
+    text-align:center;
+    color:hsl(0, 0%, 75%);
+}
+
+.ex{
+    color:hsl(0, 0%, 75%);
+}
